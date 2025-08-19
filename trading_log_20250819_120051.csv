@@ -1,0 +1,6 @@
+timestamp,orderid_tn,symbol,signal,bet_amount,outcome,bl_before,payout,bl_after,daily_profit,martingale_step,consecutive_losses,stop_reason
+2025-08-19 12:00:51,1,0.94,WIN,100.80,1.74,1,0,ACTIVE
+2025-08-19 12:00:52,2,0.94,WIN,98.92,1.74,2,1,ACTIVE
+2025-08-19 12:00:53,3,1.10,WIN,96.72,1.74,3,2,ACTIVE
+2025-08-19 12:00:54,4,2.40,WIN,91.92,1.74,4,3,ACTIVE
+2025-08-19 12:00:55,5,5.23,WIN,96.36,11.41,1,0,ACTIVE
